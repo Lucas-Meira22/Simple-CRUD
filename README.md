@@ -1,5 +1,5 @@
 <h1 align="center">
-  TODO List
+  Simple API rest (CRUD)
 </h1>
 
 <p align="center">
